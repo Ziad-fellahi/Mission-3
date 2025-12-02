@@ -64,12 +64,6 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmAjout.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrmAjout.Designer.cs">
-      <DependentUpon>FrmAjout.cs</DependentUpon>
-    </Compile>
     <Compile Include="medecin.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
